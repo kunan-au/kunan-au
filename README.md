@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects or initiatives that align with my interest in financial risk and data analysis. I am eager to apply my computing data science knowledge to real-world financial challenges, particularly in areas that leverage cutting-edge technology to innovate in risk assessment and management.
 - 📫 How to reach me +61 426661227
 
+- If no recently update, pls find me in https://leetcode.com/kun45301873/  ^v^
 <!---
 kunan-au/kunan-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
